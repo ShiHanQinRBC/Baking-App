@@ -13,7 +13,10 @@
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
+    "react-native-instagram-login": "^2.0.0",
+    "react-native-simple-store": "^2.0.2",
     "react-native-web": "~0.11.7",
+    "react-native-webview": "^10.2.3",
     "simple-oauth2": "^4.0.0"
   },
   "devDependencies": {
